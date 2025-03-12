@@ -55,9 +55,10 @@ Ensure you have **Node.js** and **npm** (or **yarn**) installed.
    
    ```
   goto src
-  '''bash
+  ```bash
+
   cd src
-  '''
+  ```
 
 ### 2. Install Dependencies
 Run this command to install all necessary dependencies:
