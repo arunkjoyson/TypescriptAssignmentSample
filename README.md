@@ -50,10 +50,14 @@ If you don’t have these installed, download and install them first.
 Ensure you have **Node.js** and **npm** (or **yarn**) installed.
 
 1. Clone the repository:
-   ```sh
+   ```bash
    git clone git@github.com:arunkjoyson/TypescriptAssignmentSample.git
- 
+   
    ```
+  goto src
+  '''bash
+  cd src
+  '''
 
 ### 2. Install Dependencies
 Run this command to install all necessary dependencies:
@@ -61,17 +65,6 @@ Run this command to install all necessary dependencies:
 npm install
 ```
 
-### 3. Build the Project
-Compile the TypeScript code into JavaScript:
-```bash
-npm run build
-```
-
-### 4. Run the Code
-Execute the compiled JavaScript file to see the program in action:
-```bash
-npm start
-```
 
 ---
 
