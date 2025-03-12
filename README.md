@@ -51,8 +51,8 @@ Ensure you have **Node.js** and **npm** (or **yarn**) installed.
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Sheetalrana190/MAT-Practice.git
-   cd MAT-Practice
+   git clone git@github.com:arunkjoyson/TypescriptAssignmentSample.git
+ 
    ```
 
 ### 2. Install Dependencies
