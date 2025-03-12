@@ -47,7 +47,7 @@ If you don’t have these installed, download and install them first.
 
 ## Usage 
 
-Ensure you have **Node.js** and **npm** (or **yarn**) installed.
+Ensure you have **Node.js** and **npm** installed.
 
 1. Clone the repository:
    ```bash
